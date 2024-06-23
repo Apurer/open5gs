@@ -4,14 +4,6 @@
 
 Helm chart to deploy Open5gs services on Kubernetes.
 
-**Homepage:** <https://github.com/gradiant/openverso-charts>
-
-## Maintainers
-
-| Name | Email | Url |
-| ---- | ------ | --- |
-| cgiraldo | <cgiraldo@gradiant.org> |  |
-
 ## Source Code
 
 * <http://open5gs.org>
